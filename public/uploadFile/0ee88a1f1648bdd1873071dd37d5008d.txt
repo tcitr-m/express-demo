@@ -1,0 +1,5 @@
+fajsp, number, 安监审批状态 0 未审批  1 已审批,
+fajsp_user, varchar2(50), 安监审批人,
+fajsp_date, date, 安监审批时间,
+ffile, varchar2(1000), 附件,
+fhtno, varchar2(50), 合同编号
